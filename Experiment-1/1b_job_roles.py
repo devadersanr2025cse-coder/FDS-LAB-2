@@ -7,4 +7,5 @@ plt.bar(roles, counts)
 plt.title('Distribution of Data Science Roles')
 plt.xlabel('Role')
 plt.ylabel('Count')
+
 plt.show()
